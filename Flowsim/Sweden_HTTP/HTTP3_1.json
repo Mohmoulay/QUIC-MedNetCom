@@ -1,0 +1,708 @@
+{
+  "Protocol": "HTTP3",
+  "Server": "193.147.104.35:8082",
+  "Burst": 102400,
+  "Start": "2020-03-24T14:27:21Z",
+  "Times": [
+   {
+    "XferStart": "2020-03-24T14:27:21Z",
+    "XferTime": "246.55182ms",
+    "XferBytes": 102401,
+    "XferIter": 1,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:27:31Z",
+    "XferTime": "114.822203ms",
+    "XferBytes": 102401,
+    "XferIter": 2,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:27:41Z",
+    "XferTime": "94.313784ms",
+    "XferBytes": 102401,
+    "XferIter": 3,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:27:51Z",
+    "XferTime": "89.985373ms",
+    "XferBytes": 102401,
+    "XferIter": 4,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:28:01Z",
+    "XferTime": "90.619054ms",
+    "XferBytes": 102401,
+    "XferIter": 5,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:28:11Z",
+    "XferTime": "79.133031ms",
+    "XferBytes": 102401,
+    "XferIter": 6,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:28:21Z",
+    "XferTime": "78.629747ms",
+    "XferBytes": 102401,
+    "XferIter": 7,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:28:31Z",
+    "XferTime": "93.356602ms",
+    "XferBytes": 102401,
+    "XferIter": 8,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:28:41Z",
+    "XferTime": "163.566071ms",
+    "XferBytes": 102401,
+    "XferIter": 9,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:28:51Z",
+    "XferTime": "109.877743ms",
+    "XferBytes": 102401,
+    "XferIter": 10,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:29:01Z",
+    "XferTime": "103.488294ms",
+    "XferBytes": 102401,
+    "XferIter": 11,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:29:11Z",
+    "XferTime": "111.939159ms",
+    "XferBytes": 102401,
+    "XferIter": 12,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:29:21Z",
+    "XferTime": "117.848145ms",
+    "XferBytes": 102401,
+    "XferIter": 13,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:29:31Z",
+    "XferTime": "95.624078ms",
+    "XferBytes": 102401,
+    "XferIter": 14,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:29:41Z",
+    "XferTime": "111.044306ms",
+    "XferBytes": 102401,
+    "XferIter": 15,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:29:51Z",
+    "XferTime": "108.664891ms",
+    "XferBytes": 102401,
+    "XferIter": 16,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:30:01Z",
+    "XferTime": "104.8161ms",
+    "XferBytes": 102401,
+    "XferIter": 17,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:30:11Z",
+    "XferTime": "114.525921ms",
+    "XferBytes": 102401,
+    "XferIter": 18,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:30:21Z",
+    "XferTime": "132.570687ms",
+    "XferBytes": 102401,
+    "XferIter": 19,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:30:31Z",
+    "XferTime": "92.642449ms",
+    "XferBytes": 102401,
+    "XferIter": 20,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:30:41Z",
+    "XferTime": "98.066554ms",
+    "XferBytes": 102401,
+    "XferIter": 21,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:30:51Z",
+    "XferTime": "117.14633ms",
+    "XferBytes": 102401,
+    "XferIter": 22,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:31:01Z",
+    "XferTime": "104.346565ms",
+    "XferBytes": 102401,
+    "XferIter": 23,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:31:11Z",
+    "XferTime": "115.607175ms",
+    "XferBytes": 102401,
+    "XferIter": 24,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:31:21Z",
+    "XferTime": "212.934025ms",
+    "XferBytes": 102401,
+    "XferIter": 25,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:31:31Z",
+    "XferTime": "139.242106ms",
+    "XferBytes": 102401,
+    "XferIter": 26,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:31:41Z",
+    "XferTime": "119.264108ms",
+    "XferBytes": 102401,
+    "XferIter": 27,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:31:51Z",
+    "XferTime": "121.201349ms",
+    "XferBytes": 102401,
+    "XferIter": 28,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:32:01Z",
+    "XferTime": "97.540499ms",
+    "XferBytes": 102401,
+    "XferIter": 29,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:32:11Z",
+    "XferTime": "157.5755ms",
+    "XferBytes": 102401,
+    "XferIter": 30,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:32:21Z",
+    "XferTime": "134.814032ms",
+    "XferBytes": 102401,
+    "XferIter": 31,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:32:31Z",
+    "XferTime": "103.715604ms",
+    "XferBytes": 102401,
+    "XferIter": 32,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:32:41Z",
+    "XferTime": "122.412645ms",
+    "XferBytes": 102401,
+    "XferIter": 33,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:32:51Z",
+    "XferTime": "125.798425ms",
+    "XferBytes": 102401,
+    "XferIter": 34,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:33:01Z",
+    "XferTime": "158.364292ms",
+    "XferBytes": 102401,
+    "XferIter": 35,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:33:11Z",
+    "XferTime": "127.08426ms",
+    "XferBytes": 102401,
+    "XferIter": 36,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:33:21Z",
+    "XferTime": "107.308567ms",
+    "XferBytes": 102401,
+    "XferIter": 37,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:33:31Z",
+    "XferTime": "108.727735ms",
+    "XferBytes": 102401,
+    "XferIter": 38,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:33:41Z",
+    "XferTime": "91.786178ms",
+    "XferBytes": 102401,
+    "XferIter": 39,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:33:51Z",
+    "XferTime": "97.589686ms",
+    "XferBytes": 102401,
+    "XferIter": 40,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:34:01Z",
+    "XferTime": "101.787977ms",
+    "XferBytes": 102401,
+    "XferIter": 41,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:34:11Z",
+    "XferTime": "94.09025ms",
+    "XferBytes": 102401,
+    "XferIter": 42,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:34:21Z",
+    "XferTime": "97.354278ms",
+    "XferBytes": 102401,
+    "XferIter": 43,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:34:31Z",
+    "XferTime": "114.235936ms",
+    "XferBytes": 102401,
+    "XferIter": 44,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:34:41Z",
+    "XferTime": "113.054148ms",
+    "XferBytes": 102401,
+    "XferIter": 45,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:34:51Z",
+    "XferTime": "119.011936ms",
+    "XferBytes": 102401,
+    "XferIter": 46,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:35:01Z",
+    "XferTime": "104.814029ms",
+    "XferBytes": 102401,
+    "XferIter": 47,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:35:11Z",
+    "XferTime": "100.540972ms",
+    "XferBytes": 102401,
+    "XferIter": 48,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:35:21Z",
+    "XferTime": "103.175959ms",
+    "XferBytes": 102401,
+    "XferIter": 49,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:35:31Z",
+    "XferTime": "124.427378ms",
+    "XferBytes": 102401,
+    "XferIter": 50,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:35:41Z",
+    "XferTime": "123.388837ms",
+    "XferBytes": 102401,
+    "XferIter": 51,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:35:51Z",
+    "XferTime": "96.63978ms",
+    "XferBytes": 102401,
+    "XferIter": 52,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:36:01Z",
+    "XferTime": "96.892004ms",
+    "XferBytes": 102401,
+    "XferIter": 53,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:36:11Z",
+    "XferTime": "94.474118ms",
+    "XferBytes": 102401,
+    "XferIter": 54,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:36:21Z",
+    "XferTime": "144.037973ms",
+    "XferBytes": 102401,
+    "XferIter": 55,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:36:31Z",
+    "XferTime": "106.016647ms",
+    "XferBytes": 102401,
+    "XferIter": 56,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:36:41Z",
+    "XferTime": "138.697466ms",
+    "XferBytes": 102401,
+    "XferIter": 57,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:36:51Z",
+    "XferTime": "102.481514ms",
+    "XferBytes": 102401,
+    "XferIter": 58,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:37:01Z",
+    "XferTime": "110.379181ms",
+    "XferBytes": 102401,
+    "XferIter": 59,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:37:11Z",
+    "XferTime": "102.340721ms",
+    "XferBytes": 102401,
+    "XferIter": 60,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:37:21Z",
+    "XferTime": "102.618302ms",
+    "XferBytes": 102401,
+    "XferIter": 61,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:37:31Z",
+    "XferTime": "120.281695ms",
+    "XferBytes": 102401,
+    "XferIter": 62,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:37:41Z",
+    "XferTime": "131.254318ms",
+    "XferBytes": 102401,
+    "XferIter": 63,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:37:51Z",
+    "XferTime": "164.56315ms",
+    "XferBytes": 102401,
+    "XferIter": 64,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:38:01Z",
+    "XferTime": "104.621163ms",
+    "XferBytes": 102401,
+    "XferIter": 65,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:38:11Z",
+    "XferTime": "102.148156ms",
+    "XferBytes": 102401,
+    "XferIter": 66,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:38:21Z",
+    "XferTime": "137.75472ms",
+    "XferBytes": 102401,
+    "XferIter": 67,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:38:31Z",
+    "XferTime": "122.3541ms",
+    "XferBytes": 102401,
+    "XferIter": 68,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:38:41Z",
+    "XferTime": "91.958587ms",
+    "XferBytes": 102401,
+    "XferIter": 69,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:38:51Z",
+    "XferTime": "133.718953ms",
+    "XferBytes": 102401,
+    "XferIter": 70,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:39:01Z",
+    "XferTime": "103.223197ms",
+    "XferBytes": 102401,
+    "XferIter": 71,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:39:11Z",
+    "XferTime": "106.426462ms",
+    "XferBytes": 102401,
+    "XferIter": 72,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:39:21Z",
+    "XferTime": "97.131542ms",
+    "XferBytes": 102401,
+    "XferIter": 73,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:39:31Z",
+    "XferTime": "120.979193ms",
+    "XferBytes": 102401,
+    "XferIter": 74,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:39:41Z",
+    "XferTime": "104.0536ms",
+    "XferBytes": 102401,
+    "XferIter": 75,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:39:51Z",
+    "XferTime": "133.903044ms",
+    "XferBytes": 102401,
+    "XferIter": 76,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:40:01Z",
+    "XferTime": "128.219971ms",
+    "XferBytes": 102401,
+    "XferIter": 77,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:40:11Z",
+    "XferTime": "137.347766ms",
+    "XferBytes": 102401,
+    "XferIter": 78,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:40:21Z",
+    "XferTime": "131.092912ms",
+    "XferBytes": 102401,
+    "XferIter": 79,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:40:31Z",
+    "XferTime": "128.538798ms",
+    "XferBytes": 102401,
+    "XferIter": 80,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:40:41Z",
+    "XferTime": "121.780733ms",
+    "XferBytes": 102401,
+    "XferIter": 81,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:40:51Z",
+    "XferTime": "155.440635ms",
+    "XferBytes": 102401,
+    "XferIter": 82,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:41:01Z",
+    "XferTime": "176.715106ms",
+    "XferBytes": 102401,
+    "XferIter": 83,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:41:11Z",
+    "XferTime": "153.848916ms",
+    "XferBytes": 102401,
+    "XferIter": 84,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:41:21Z",
+    "XferTime": "119.839089ms",
+    "XferBytes": 102401,
+    "XferIter": 85,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:41:31Z",
+    "XferTime": "157.218373ms",
+    "XferBytes": 102401,
+    "XferIter": 86,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:41:41Z",
+    "XferTime": "117.978851ms",
+    "XferBytes": 102401,
+    "XferIter": 87,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:41:51Z",
+    "XferTime": "122.758174ms",
+    "XferBytes": 102401,
+    "XferIter": 88,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:42:01Z",
+    "XferTime": "101.998478ms",
+    "XferBytes": 102401,
+    "XferIter": 89,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:42:11Z",
+    "XferTime": "120.40375ms",
+    "XferBytes": 102401,
+    "XferIter": 90,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:42:21Z",
+    "XferTime": "135.85116ms",
+    "XferBytes": 102401,
+    "XferIter": 91,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:42:31Z",
+    "XferTime": "121.910499ms",
+    "XferBytes": 102401,
+    "XferIter": 92,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:42:41Z",
+    "XferTime": "102.44761ms",
+    "XferBytes": 102401,
+    "XferIter": 93,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:42:51Z",
+    "XferTime": "123.777052ms",
+    "XferBytes": 102401,
+    "XferIter": 94,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:43:01Z",
+    "XferTime": "139.192236ms",
+    "XferBytes": 102401,
+    "XferIter": 95,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:43:11Z",
+    "XferTime": "105.153533ms",
+    "XferBytes": 102401,
+    "XferIter": 96,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:43:21Z",
+    "XferTime": "112.578881ms",
+    "XferBytes": 102401,
+    "XferIter": 97,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:43:31Z",
+    "XferTime": "96.18139ms",
+    "XferBytes": 102401,
+    "XferIter": 98,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:43:41Z",
+    "XferTime": "122.360281ms",
+    "XferBytes": 102401,
+    "XferIter": 99,
+    "Generator": ""
+   },
+   {
+    "XferStart": "2020-03-24T14:43:51Z",
+    "XferTime": "111.449189ms",
+    "XferBytes": 102401,
+    "XferIter": 100,
+    "Generator": ""
+   }
+  ]
+ }
